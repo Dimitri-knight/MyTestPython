@@ -1,0 +1,12 @@
+[
+  {
+    "login": "admin",
+    "password": "root123",
+    "premission": 2
+  },
+  {
+    "login": "superadmin",
+    "password": "root32145mono",
+    "premission": 2
+  }
+]
