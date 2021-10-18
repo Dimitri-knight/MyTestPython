@@ -1,3 +1,5 @@
+#my test thing from Atom
+
 import json, random
 
 filename='users.json'
